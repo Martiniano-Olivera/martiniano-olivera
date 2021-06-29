@@ -24,6 +24,6 @@ I am a front end developer from Argentina
 
 ---
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=martiniano-olivera&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=martiniano-olivera&theme=radical&layout=compact)
 
 ---
