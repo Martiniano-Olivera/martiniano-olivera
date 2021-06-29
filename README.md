@@ -1,21 +1,29 @@
-### Hello World 👋
+### Hello World, it's Martiniano 👋
 I am a front end developer from Argentina
-- 🔭 Working on multiple frontend projects using Angular, SASS, Bulma, Bootstrap, Angular Material, 
-- 🌱 Everyday trying to learn something new 
-<br>
+- 🔭 Worked on multiple frontend projects using Angular, SASS, Bulma, Bootstrap, Angular Material, and PrimeNG.
+- 🌱 Everyday trying to learn something new .
+
 ## Connect with me
 
-[ <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> ] (https://www.linkedin.com/in/mohammad-faisal-2665b5134)
+<a href="https://www.linkedin.com/in/martiniano-olivera/">
+<img align="left" alt="Martiniano Olivera LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+<br>
 
-<br>
-<br>
-## Expertise
-<br>
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<br>
-<br>
+## Languages and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+---
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=martiniano-olivera&theme=radical&show_icons=true&count_private=true)
+
+---
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=martiniano-olivera&layout=compact)
+
+---
